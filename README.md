@@ -1,2 +1,2 @@
 ## Grupo-3--FUNBIO
-![Imagen de WhatsApp 56f93cc3-a20c-4ed5-97e7-46155ee8156d](https://cdn.phototourl.com/free/2026-03-25-866691f9-4988-49dc-9026-193222083dc6.webp)
+![Imagen de WhatsApp 56f93cc3-a20c-4ed5-97e7-46155ee8156d](https://cdn.phototourl.com/free/2026-03-25-b3a11259-8bc5-4a02-b8e0-62fb689b28a8.jpg)
