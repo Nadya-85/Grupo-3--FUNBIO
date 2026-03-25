@@ -30,7 +30,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
     - Apoyo en el desarrollo del sistema eléctrico
     - Elaboración del sistema y organización de componentes 
     - Verificación de electrónica y funcionamiento del proyecto
-
+#
 
 - **Integrante 3** Fabiana Valery Silva Avileno
 - ![Foto de Fabi](https://cdn.phototourl.com/free/2026-03-25-5df70e91-664d-4eee-8743-949babc2e6ac.jpg)
@@ -40,7 +40,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
   - **Responsabilidades:**
   - Apoyo con el diseño de prototipado
   - Realizar una amplia y precisa indagación sobre el caso
-
+#
 
 - **Integrante 4** JeanPierre Palacin Hilario
 - ![Foto de Yan](https://cdn.phototourl.com/free/2026-03-25-b8e19646-185f-4a76-8f06-e7fb92cc2e23.jpg)
@@ -49,7 +49,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
   - **Rol:** Electrónica y Programación 
   - **Responsabilidades:**
     -Supervision del trabajo continuo
-
+#
       
 - **Integrante 5** Edwin José Guillermo Fajardo Peña
 - ![Foto de Edwin](https://cdn.phototourl.com/free/2026-03-25-129d7651-2ffb-463a-86e8-e3c16a733a68.jpg)
@@ -60,7 +60,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
     - Supervisar el trabajo grupal
     - Coordinar continuamente con el equipo
     - Presentar mis deberes a tiempo
-
+#
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
 - ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-4eae8ccd-fc76-4f5d-bc59-a7d381df50df.jpg)
