@@ -17,7 +17,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 
 - **Integrante 2** Matías Peñaloza Díaz
 - ![Foto de Matias](https://cdn.phototourl.com/free/2026-03-25-3ab27510-ee8b-4921-b3cb-7ef97a8e88d9.jpg)
-  - **Edad:** 18
+  - **Edad:** 19
   - **Sobre mí:** Disfruto mucho de diseñar circuitos eléctricos y programar su funcionamiento, mi objetivo es crear tecnología médica de vanguardia para mejorar la sociedad.
   - **Rol:** Electrónica - Diseño 
   - **Responsabilidades:**
