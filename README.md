@@ -1,5 +1,5 @@
 # GRUPO-3-FUNBIO
-[Descripcion]
+Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una propuesta que busca ayudar a resolver una necesidad real en el área de la salud mediante el uso de tecnología médica, electrónica y prototipado. Nuestro objetivo es unir innovación, creatividad y trabajo en equipo para desarrollar una solución útil, funcional y con impacto en la vida de las personas.
 
 ![Fondo](https://cdn.phototourl.com/free/2026-03-25-af24d11c-e026-438d-90e7-d9fd9bc918b1.jpg)
 # Presentación:)
