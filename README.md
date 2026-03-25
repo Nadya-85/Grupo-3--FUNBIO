@@ -1,2 +1,2 @@
 # Grupo-3--FUNBIO
-![abc](https://www.example.com/cat.jpg](https://prnt.sc/BwyXAmrEgwLw).
+![Snoopy ✨](https://prnt.sc/VVyjW2u98Jmv)
