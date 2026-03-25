@@ -28,10 +28,14 @@
 
 - **Integrante 3** Fabiana Valery Silva Avileno
   ![Foto de Fabi](https://cdn.phototourl.com/free/2026-03-25-5df70e91-664d-4eee-8743-949babc2e6ac.jpg)
-  - **Edad:** 
-  - **Sobre mí:** 
-  - **Rol:** 
+  - **Edad:** 19
+  - **Sobre mí:** Disfruto realizar investigaciones para proponer soluciones tangibles ante algún problema de sociedad y salud
+  - **Rol:** Diseño e investigación
   - **Responsabilidades:**
+  - Apoyo con el diseño de prototipado
+  - Realizar una amplia y precisa indagación sobre el caso
+    
+
 
 - **Integrante 4** JeanPierre Palacin Hilario
   ![Foto de Yan](https://cdn.phototourl.com/free/2026-03-25-b8e19646-185f-4a76-8f06-e7fb92cc2e23.jpg)
