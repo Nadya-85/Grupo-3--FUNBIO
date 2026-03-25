@@ -1,7 +1,7 @@
 # GRUPO-3-FUNBIO
 [Descripcion]
 
-![Fondo](https://cdn.phototourl.com/free/2026-03-25-ef8ce159-e20f-47fc-8cfa-5e08b6e81020.jpg)
+![Fondo](https://cdn.phototourl.com/free/2026-03-25-af24d11c-e026-438d-90e7-d9fd9bc918b1.jpg)
 # Presentación:)
 
 - **nombre1** Nadya Quezada Ponciano
@@ -11,9 +11,8 @@
   - **Rol:** 
   - **Responsabilidades:**
 
-      
-![imagen de WhatsApp](Imagenes/Matias.jpg)
 - **Integrante 6** Matías Peñaloza Díaz
+- ![Foto de Matias](https://cdn.phototourl.com/free/2026-03-25-3ab27510-ee8b-4921-b3cb-7ef97a8e88d9.jpg)
   - **Edad:** 18
   - **Sobre mí:** Disfruto mucho de diseñar circuitos eléctricos y programar su funcionamiento, mi objetivo es crear tecnología médica de vanguardia para mejorar la sociedad.
   - **Rol:** Electrónica - Diseño 
