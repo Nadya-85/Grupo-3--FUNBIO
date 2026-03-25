@@ -12,12 +12,16 @@
   - **Responsabilidades:**
 
       
-- **nombre2** Matias
-  ![Foto de Matias](urlimagen1)
-  - **Edad:** 
-  - **Sobre mí:** 
-  - **Rol:** 
+![imagen de WhatsApp](Imagenes/Matias.jpg)
+- **Integrante 6** Matías Peñaloza Díaz
+  - **Edad:** 18
+  - **Sobre mí:** Disfruto mucho de diseñar circuitos eléctricos y programar su funcionamiento, mi objetivo es crear tecnología médica de vanguardia para mejorar la sociedad.
+  - **Rol:** Electrónica - Diseño 
   - **Responsabilidades:**
+    - Apoyo en el desarrollo del sistema eléctrico
+    - Elaboración del sistema y organización de componentes 
+    - Verificación de electrónica y funcionamiento del proyecto
+
 
 - **nombre3** Fabiana Valery Silva Avileno
   ![Foto de Fabi](https://cdn.phototourl.com/free/2026-03-25-5df70e91-664d-4eee-8743-949babc2e6ac.jpg)
