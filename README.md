@@ -6,8 +6,8 @@
 
 - **Integrante 1** Nadya Quezada Ponciano
 - ![Foto de Nadya](https://cdn.phototourl.com/free/2026-03-25-b7266e6c-fc66-4a4c-9039-f3b40150cc3e.jpg)
-  - **Edad:*20* 
-  - **Sobre mí:** 
+  - **Edad:** 20
+  - **Sobre mí:** Me gusta escuchar música, además disfruto aprender sobre diversos diseños y tecnologías
   - **Rol:** Diseño y Mecánica
   - **Responsabilidades:**
     - Líder de equipo
