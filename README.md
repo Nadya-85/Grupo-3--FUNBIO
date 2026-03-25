@@ -1,6 +1,6 @@
 # GRUPO-3-FUNBIO
 [Descripcion]
-.
+
 ![imagen de canva](url)
 # Presentación:)
 
