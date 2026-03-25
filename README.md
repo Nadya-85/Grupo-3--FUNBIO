@@ -1,2 +1,2 @@
 # Grupo-3--FUNBIO
-<img scr0"https://prnt.sc/BwyXAmrEgwLw">
+<img scr="https://prnt.sc/BwyXAmrEgwLw">Imagen1
