@@ -63,7 +63,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
-- ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-a18ffb4d-477a-4259-9516-91eae9fe6a5a.jpg)
+- ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-541bf0b1-80ed-4c05-ae0b-3b90b47aedaf.jpg)
   - **Edad:** 20
   - **Sobre mí:** Me gusta leer  
   - **Rol:**  Prototipado 
