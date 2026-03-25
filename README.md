@@ -19,7 +19,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
     - Elaboración de planos 2D
     - Desarrollo del diseño 3D del proyecto
     - Verificación de la mecánica
-
+#
 
 - **Integrante 2** Matías Peñaloza Díaz
 - ![Foto de Matias](https://cdn.phototourl.com/free/2026-03-25-3ab27510-ee8b-4921-b3cb-7ef97a8e88d9.jpg)
