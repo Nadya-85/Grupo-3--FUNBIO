@@ -31,11 +31,11 @@
 
 - **nombre4** JeanPierre Palacin Hilario
   ![Foto de Yan](https://cdn.phototourl.com/free/2026-03-25-b8e19646-185f-4a76-8f06-e7fb92cc2e23.jpg)
-  - **Edad:** 
-  - **Sobre mí:** 
-  - **Rol:** 
+  - **Edad:**  20
+  - **Sobre mí:** Me gusta el aji de gallina
+  - **Rol:** Electrónica y Programación 
   - **Responsabilidades:**
- Asegurar el cumplimiento de los objetivos del grupo
+    -Supervision del trabajo continuo
       
 - **nombre5** Edwin José Guillermo Fajardo Peña
   ![Foto de Edwin](urlimagen1)
