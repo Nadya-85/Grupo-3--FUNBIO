@@ -46,14 +46,14 @@
     -Supervision del trabajo continuo
       
 - **Integrante 5** Edwin José Guillermo Fajardo Peña
-  ![Foto de Edwin](urlimagen1)
+- ![Foto de Edwin](urlimagen1)
   - **Edad:** 
   - **Sobre mí:** 
   - **Rol:** 
   - **Responsabilidades:**
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
-  ![Foto de Alexandra](urlimagen1)
+- ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-4eae8ccd-fc76-4f5d-bc59-a7d381df50df.jpg)
   - **Edad:** 
   - **Sobre mí:** 
   - **Rol:** 
