@@ -1,4 +1,5 @@
 # GRUPO-3-FUNBIO
+
 Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una propuesta que busca ayudar a resolver una necesidad real en el área de la salud mediante el uso de tecnología médica, electrónica y prototipado. Nuestro objetivo es unir innovación, creatividad y trabajo en equipo para desarrollar una solución útil, funcional y con impacto en la vida de las personas.
 
 ![Fondo](https://cdn.phototourl.com/free/2026-03-25-af24d11c-e026-438d-90e7-d9fd9bc918b1.jpg)
@@ -14,6 +15,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
     - Elaboración de planos 2D
     - Desarrollo del diseño 3D del proyecto
     - Verificación de la mecánica
+
 
 - **Integrante 2** Matías Peñaloza Díaz
 - ![Foto de Matias](https://cdn.phototourl.com/free/2026-03-25-3ab27510-ee8b-4921-b3cb-7ef97a8e88d9.jpg)
@@ -34,7 +36,6 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
   - **Responsabilidades:**
   - Apoyo con el diseño de prototipado
   - Realizar una amplia y precisa indagación sobre el caso
-    
 
 
 - **Integrante 4** JeanPierre Palacin Hilario
@@ -44,13 +45,18 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
   - **Rol:** Electrónica y Programación 
   - **Responsabilidades:**
     -Supervision del trabajo continuo
+
       
 - **Integrante 5** Edwin José Guillermo Fajardo Peña
-- ![Foto de Edwin](urlimagen1)
-  - **Edad:** 
-  - **Sobre mí:** 
-  - **Rol:** 
+- ![Foto de Edwin](https://cdn.phototourl.com/free/2026-03-25-129d7651-2ffb-463a-86e8-e3c16a733a68.jpg)
+  - **Edad:** 19
+  - **Sobre mí:** En mis tiempos libres me gusta jugar con mis compañeros e investigar sobre temas controversiales. En el ámbito académico, soy perseverante con lo que me propongo y doy lo mejor de mí.
+  - **Rol:** Electrónica y Programación
   - **Responsabilidades:**
+    - Supervisar el trabajo grupal
+    - Coordinar continuamente con el equipo
+    - Presentar mis deberes a tiempo
+
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
 - ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-4eae8ccd-fc76-4f5d-bc59-a7d381df50df.jpg)
