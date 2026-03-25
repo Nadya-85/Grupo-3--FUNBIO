@@ -43,7 +43,8 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
 
 - **Integrante 4** JeanPierre Palacin Hilario
-- ![Foto de Yan](https://cdn.phototourl.com/free/2026-03-25-b8e19646-185f-4a76-8f06-e7fb92cc2e23.jpg)
+- <img src="https://cdn.phototourl.com/free/2026-03-25-b8e19646-185f-4a76-8f06-e7fb92cc2e23.jpg" width="400" height="400">
+
   - **Edad:**  20
   - **Sobre mí:** Me gusta el aji de gallina
   - **Rol:** Electrónica y Programación 
@@ -64,6 +65,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
 - <img src="https://cdn.phototourl.com/free/2026-03-25-541bf0b1-80ed-4c05-ae0b-3b90b47aedaf.jpg" width="400" height="400">
+
   - **Edad:** 20
   - **Sobre mí:** Me gusta leer  
   - **Rol:**  Prototipado 
