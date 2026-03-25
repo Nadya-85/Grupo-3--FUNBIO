@@ -1,7 +1,7 @@
 # GRUPO-3-FUNBIO
 [Descripcion]
-.
-![imagen de canva](url)
+
+![Fondo](https://cdn.phototourl.com/free/2026-03-25-ef8ce159-e20f-47fc-8cfa-5e08b6e81020.jpg)
 # Presentación:)
 
 ![imagen de WhatsApp](urlimagen1)
