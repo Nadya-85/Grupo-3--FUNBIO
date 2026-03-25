@@ -5,7 +5,7 @@
 # Presentación:)
 
 - **nombre1** Nadya Quezada Ponciano
-  ![Foto de Nadya](urlimagen1)
+- ![Foto de Nadya](https://cdn.phototourl.com/free/2026-03-25-b7266e6c-fc66-4a4c-9039-f3b40150cc3e.jpg)
   - **Edad:** 
   - **Sobre mí:** 
   - **Rol:** 
