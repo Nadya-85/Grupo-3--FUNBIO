@@ -52,7 +52,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
       
 - **Integrante 5** Edwin José Guillermo Fajardo Peña
-- ![Foto de Edwin](https://cdn.phototourl.com/free/2026-03-25-129d7651-2ffb-463a-86e8-e3c16a733a68.jpg)
+- ![Foto de Edwin](https://cdn.phototourl.com/free/2026-03-25-bd0a5bd9-f62d-4fb1-982e-08588c3bb38d.jpg)
   - **Edad:** 19
   - **Sobre mí:** En mis tiempos libres me gusta jugar con mis compañeros e investigar sobre temas controversiales. En el ámbito académico, soy perseverante con lo que me propongo y doy lo mejor de mí.
   - **Rol:** Electrónica y Programación
@@ -63,7 +63,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
-- ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-4eae8ccd-fc76-4f5d-bc59-a7d381df50df.jpg)
+- ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-a18ffb4d-477a-4259-9516-91eae9fe6a5a.jpg)
   - **Edad:** 20
   - **Sobre mí:** Me gusta leer  
   - **Rol:**  Prototipado 
