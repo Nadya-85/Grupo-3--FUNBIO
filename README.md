@@ -1,8 +1,12 @@
 # GRUPO-3-FUNBIO
+![Fondo](https://cdn.phototourl.com/free/2026-03-25-af24d11c-e026-438d-90e7-d9fd9bc918b1.jpg)
+
 
 Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una propuesta que busca ayudar a resolver una necesidad real en el área de la salud mediante el uso de tecnología médica, electrónica y prototipado. Nuestro objetivo es unir innovación, creatividad y trabajo en equipo para desarrollar una solución útil, funcional y con impacto en la vida de las personas.
 
-![Fondo](https://cdn.phototourl.com/free/2026-03-25-af24d11c-e026-438d-90e7-d9fd9bc918b1.jpg)
+![Grupal](https://cdn.phototourl.com/free/2026-03-25-9b3d0aac-d9e5-4292-9df6-967465741f0f.jpg)
+
+
 # Presentación:)
 
 - **Integrante 1** Nadya Quezada Ponciano
