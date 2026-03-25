@@ -54,7 +54,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 
 - **Integrante 6** Alexandra Ramirez Rodriguez
 - ![Foto de Alexandra](https://cdn.phototourl.com/free/2026-03-25-4eae8ccd-fc76-4f5d-bc59-a7d381df50df.jpg)
-  - **Edad:** 
-  - **Sobre mí:** 
-  - **Rol:** 
-  - **Responsabilidades:**
+  - **Edad:** 20
+  - **Sobre mí:** Me gusta leer  
+  - **Rol:**  Prototipado 
+  - **Responsabilidades:**  Encargarse en la elaboracion del prototipado y apoyo en la elaboracion del diseño y electronica
