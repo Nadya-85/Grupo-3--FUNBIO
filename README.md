@@ -53,7 +53,7 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
       
 - **Integrante 5** Edwin José Guillermo Fajardo Peña
-- ![Foto de Edwin](https://cdn.phototourl.com/free/2026-03-25-93a1b736-0990-4265-841e-105cb281b137.jpg)
+- <img src="https://cdn.phototourl.com/free/2026-03-25-fd08552f-de96-42d9-b096-e189003c32c1.jpg" width="400" height="400">
   - **Edad:** 19
   - **Sobre mí:** En mis tiempos libres me gusta jugar con mis compañeros e investigar sobre temas controversiales. En el ámbito académico, soy perseverante con lo que me propongo y doy lo mejor de mí.
   - **Rol:** Electrónica y Programación
