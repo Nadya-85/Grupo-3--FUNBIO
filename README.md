@@ -10,7 +10,8 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 # Presentación:)
 
 - **Integrante 1** Nadya Quezada Ponciano
-- ![Foto de Nadya](https://cdn.phototourl.com/free/2026-03-25-b7266e6c-fc66-4a4c-9039-f3b40150cc3e.jpg)
+- <img src="https://cdn.phototourl.com/free/2026-03-25-f91093b0-2193-4171-a5a1-a98c13a2ef08.jpg" width="400" height="400">
+
   - **Edad:** 20
   - **Sobre mí:** Me gusta escuchar música, además disfruto aprender sobre diversos diseños y tecnologías
   - **Rol:** Diseño y Mecánica
@@ -22,7 +23,8 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
 
 - **Integrante 2** Matías Peñaloza Díaz
-- ![Foto de Matias](https://cdn.phototourl.com/free/2026-03-25-3ab27510-ee8b-4921-b3cb-7ef97a8e88d9.jpg)
+- <img src="https://cdn.phototourl.com/free/2026-03-25-8986668a-a3b0-40fe-8431-436f98fb2091.jpg" width="400" height="400">
+
   - **Edad:** 19
   - **Sobre mí:** Disfruto mucho de diseñar circuitos eléctricos y programar su funcionamiento, mi objetivo es crear tecnología médica de vanguardia para mejorar la sociedad.
   - **Rol:** Electrónica - Diseño 
@@ -33,7 +35,8 @@ Bienvenidos al repositorio del Grupo 3. Aquí compartimos nuestro proyecto, una 
 #
 
 - **Integrante 3** Fabiana Valery Silva Avileno
-- ![Foto de Fabi](https://cdn.phototourl.com/free/2026-03-25-5df70e91-664d-4eee-8743-949babc2e6ac.jpg)
+- <img src="https://cdn.phototourl.com/free/2026-03-25-55aa0180-33fb-4c8e-8efe-7c6d241ec3bc.jpg" width="400" height="400">
+
   - **Edad:** 19
   - **Sobre mí:** Disfruto realizar investigaciones para proponer soluciones tangibles ante algún problema de sociedad y salud
   - **Rol:** Diseño e investigación
